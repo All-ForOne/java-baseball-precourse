@@ -5,3 +5,11 @@
 
 ## 과제 제출 과정
 * [과제 제출 방법](https://github.com/next-step/nextstep-docs/tree/master/precourse)
+
+## 필요 기능
+* 사용자 재시작/종료 입력
+* 게임 재시작/종료
+* 게임 진행
+* 3자리 숫자 생성
+* 사용자 입력
+* 정답 판정
